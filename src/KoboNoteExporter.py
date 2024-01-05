@@ -25,8 +25,8 @@
 
 import sys
 import getopt
-from KoboDBConnector import KoboDBConnector
-from OutputGenerator import OutputGenerator
+from src.KoboDBConnector import KoboDBConnector
+from src.OutputGenerator import OutputGenerator
 
 
 def main(argv):
